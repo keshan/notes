@@ -1,13 +1,22 @@
 {
   
     
+        "post0": {
+            "title": "Most Popular Centralized Exchange For Algorand Wallets",
+            "content": "What are Centralized Exchanges(CEX) . Broadly speaking, there are two categories of crypto exchanges: centralized exchanges and decentralized exchanges. Each category comes with its own advantages and disadvantages. Centralized crypto exchanges (CEX) are managed by one organization. Centralized exchanges make it easy to get started with cryptocurrency trading by allowing users to convert their fiat currency, like US dollars, directly into crypto. The vast majority of crypto trading take place on centralized exchanges. The company or organization may require users to follow Know Your Customer (KYC) rules. These require each user to provide proof of their identity, much as you would when you apply for a bank account. There are few concern with centralized exchanges, the private key to the wallet that contains user&#39;s coins and tokens will be under that company or organization custody which is open to hacking, privacy issues and also regulatory issues. As crypto fans say &#39;Not your Keys, Not your Coins&#39; .",
+            "url": "https://keshan.github.io/notes/algorand-cex-wallets/",
+            "relUrl": "/algorand-cex-wallets/",
+            "date": " • Feb 20, 2022"
+        }
+        
+    
   
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "",
           "url": "https://keshan.github.io/notes/about/",
